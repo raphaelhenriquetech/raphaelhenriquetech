@@ -5,8 +5,9 @@
 
 *Guarulhos, SP, Brasil — @raphaelmartins.web*
 
-[![Instagram](https://img.shields.io/badge/@raphaelmartins.web-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raphaelmartins.web)
-[![Cerveja Lenta](https://img.shields.io/badge/Cerveja%20Lenta%20Tech-F5A623?style=for-the-badge&logo=shopify&logoColor=white)](https://cervejalenta.com.br)
+[![Instagram](https://img.shields.io/badge/@oraphael.henrique-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oraphael.henrique)
+[![WhatsApp](https://img.shields.io/badge/(11)%2098675--5103-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511986755103)
+[![Email](https://img.shields.io/badge/raphaelhenrique.ti@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelhenrique.ti@gmail.com)
 
 </div>
 
